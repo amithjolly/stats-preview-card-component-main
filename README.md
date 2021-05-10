@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-[screeen 1]stats-preview-card-component-main\screens\SC1.jpg
-[screen 2]stats-preview-card-component-main\screens\SC2_1.jpg
-[screen 3]stats-preview-card-component-main\screens\SC2_2.jpg
+-screenshot - [screeen 1]stats-preview-card-component-main\screens\SC1.jpg
+-screenshot - [screen 2]stats-preview-card-component-main\screens\SC2_1.jpg
+-screenshot - [screen 3]stats-preview-card-component-main\screens\SC2_2.jpg
 
 ### Links
 
