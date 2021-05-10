@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-stats-preview-card-component-main\screens\SC1.jpg
-stats-preview-card-component-main\screens\SC2_1.jpg
-stats-preview-card-component-main\screens\SC2_2.jpg
+[screeen 1]stats-preview-card-component-main\screens\SC1.jpg
+[screen 2]stats-preview-card-component-main\screens\SC2_1.jpg
+[screen 3]stats-preview-card-component-main\screens\SC2_2.jpg
 
 ### Links
 
@@ -60,8 +60,8 @@ In future i should focus more on my css styling and have to learn a css framewor
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This site helped me through out the project. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://stackoverflow.com/) - This is an amazing site which helped me  get answers to a lot of my questions
+- [W3Schools](https://www.w3schools.com/) - This site helped me through out the project. I really liked this pattern and will use it going forward.
+- [Stack Overflow](https://stackoverflow.com/) - This is an amazing site which helped me  get answers to a lot of my questions
 
 ## Author
 
